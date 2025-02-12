@@ -1,0 +1,23 @@
+{
+  "name": "12",
+  "version": "0.0.1",
+  "description": "Teste de versionamento ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniB22/versFev12.git"
+  },
+  "keywords": [
+    "Node.js",
+    "JavaScript"
+  ],
+  "author": "Vinícius de Bona Ruas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ViniB22/versFev12/issues"
+  },
+  "homepage": "https://github.com/ViniB22/versFev12#readme"
+}
